@@ -1,0 +1,1 @@
+web: corn django_forum.wsgi
